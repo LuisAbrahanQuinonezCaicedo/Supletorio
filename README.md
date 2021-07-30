@@ -12,7 +12,7 @@ Luis Abrahan Quñonez Caicedo :alien:
   
   #### Ventas.jpg
   
-# Descriccion :black_nib:
+# Descripcion :black_nib:
 
 **Ventas de producto . cpp**
 
